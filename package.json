@@ -1,0 +1,21 @@
+{
+  "name": "node-beginner-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caraldi/node-beginner-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caraldi/node-beginner-book/issues"
+  },
+  "homepage": "https://github.com/caraldi/node-beginner-book#readme"
+}
